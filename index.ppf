@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ppfml version="2.00" project="SBC" type="4">
+  <contextmap>
+    
+  </contextmap>
+  <topiclist defaulttopic="First_Topic.htm">
+    
+    <topic>
+      SBC\Authoring_New_Articles.htm
+    </topic>
+    
+    <topic>
+      SBC\First_Topic.htm
+    </topic>
+    
+    <topic>
+      SBC\Getting_Started.htm
+    </topic>
+    
+    <topic>
+      SBC\Overview.htm
+    </topic>
+    
+    <topic>
+      SBC\rE.htm
+    </topic>
+    
+    <topic>
+      SBC\Reviewing_Articles.htm
+    </topic>
+    
+    <topic>
+      SBC\SBC1.htm
+    </topic>
+    
+    <topic>
+      SBC\SBC2.htm
+    </topic>
+    
+    <topic>
+      SBC\Table_Topic.htm
+    </topic>
+    
+    <topic>
+      SBC\Tech_Com_Assessment_-_Instructions_and_Activity.htm
+    </topic>
+    
+    <topic>
+      SBC\Updating_Previously_Published_Articles.htm
+    </topic>
+    
+    <topic>
+      First_Topic.htm
+    </topic>
+    
+  </topiclist>
+  <filenamemap>
+    <filenameentry moniker="wh_languagetype">
+      <filename>
+        en_US
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="wh_stoplist">
+      <filename>
+        whxdata/stopwords.xml
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="startpage">
+      <filename>
+        index.htm
+      </filename>
+    </filenameentry>
+        
+  </filenamemap>
+</ppfml>

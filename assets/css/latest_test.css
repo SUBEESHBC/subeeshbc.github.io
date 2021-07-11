@@ -1,0 +1,14 @@
+/*Created with Adobe RoboHelp*/
+h2 {
+  font-family: 'Matura MT Script Capitals';
+  color: #FF00FF;
+}
+p {
+  font-family: 'French Script MT';
+  color: #008000;
+}
+img {}
+table {}
+table tr:nth-child(odd) td {
+  background-color: #FFFF00;
+}
